@@ -12,7 +12,8 @@
 
 ## Demo
 
-<img width="2160" height="1247" alt="OllamaDemo" src="https://github.com/user-attachments/assets/66af320c-6481-430f-8ade-b65ca60ba1e1" />
+<img width="1328" height="895" alt="image" src="https://github.com/user-attachments/assets/f4591d4b-4655-43db-9730-58526a046a1e" />
+
 
 
 
